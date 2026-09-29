@@ -1,0 +1,17 @@
+{
+  "name": "4HB Trainer",
+  "short_name": "4HB",
+  "description": "Personal log for slow-carb meals and minimum-dose training.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ebe4d6",
+  "theme_color": "#141210",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
